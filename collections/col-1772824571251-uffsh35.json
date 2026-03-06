@@ -6,8 +6,34 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1772824571251,
-    "updatedAt": 1772824609173,
-    "members": [],
+    "updatedAt": 1772824610648,
+    "members": [
+      {
+        "repositoryId": "X-File-City/agent-orchestrator",
+        "collectionId": "col-1772824571251-uffsh35",
+        "addedAt": 1772824610648,
+        "metadata": {
+          "name": "agent-orchestrator",
+          "path": "X-File-City/agent-orchestrator",
+          "owner": "X-File-City",
+          "description": " Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.",
+          "language": "TypeScript",
+          "stars": 0,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/X-File-City/agent-orchestrator",
+          "cloneUrl": "https://github.com/X-File-City/agent-orchestrator.git",
+          "layout": {
+            "gridX": 15,
+            "gridY": 11
+          },
+          "regionId": "ea15509b-e107-4565-9ebb-c0884ae8391c",
+          "sourceRepository": {
+            "owner": "ComposioHQ",
+            "name": "agent-orchestrator"
+          }
+        }
+      }
+    ],
     "visibility": "public",
     "owner": "TheKicker25",
     "ownerType": "user",
