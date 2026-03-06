@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "collection": {
+    "id": "col-1772824571251-uffsh35",
+    "name": "test",
+    "description": "",
+    "icon": "FolderOpen",
+    "createdAt": 1772824571251,
+    "updatedAt": 1772824571251,
+    "members": [],
+    "visibility": "public",
+    "owner": "TheKicker25",
+    "ownerType": "user"
+  }
+}
