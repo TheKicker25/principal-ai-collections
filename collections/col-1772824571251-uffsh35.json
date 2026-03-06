@@ -6,10 +6,21 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1772824571251,
-    "updatedAt": 1772824571251,
+    "updatedAt": 1772824609173,
     "members": [],
     "visibility": "public",
     "owner": "TheKicker25",
-    "ownerType": "user"
+    "ownerType": "user",
+    "metadata": {
+      "customRegions": [
+        {
+          "name": "Main",
+          "order": 0,
+          "createdAt": 1772824609173,
+          "id": "ea15509b-e107-4565-9ebb-c0884ae8391c"
+        }
+      ],
+      "layoutMode": "manual"
+    }
   }
 }
