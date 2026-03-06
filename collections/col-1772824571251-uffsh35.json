@@ -6,7 +6,7 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1772824571251,
-    "updatedAt": 1772824620656,
+    "updatedAt": 1772824639191,
     "members": [
       {
         "repositoryId": "X-File-City/agent-orchestrator",
@@ -55,6 +55,31 @@
           "sourceRepository": {
             "owner": "oven-sh",
             "name": "bun"
+          }
+        }
+      },
+      {
+        "repositoryId": "X-File-City/claude-mem",
+        "collectionId": "col-1772824571251-uffsh35",
+        "addedAt": 1772824639191,
+        "metadata": {
+          "name": "claude-mem",
+          "path": "X-File-City/claude-mem",
+          "owner": "X-File-City",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+          "language": "TypeScript",
+          "stars": 0,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/X-File-City/claude-mem",
+          "cloneUrl": "https://github.com/X-File-City/claude-mem.git",
+          "layout": {
+            "gridX": 4,
+            "gridY": 3
+          },
+          "regionId": "ea15509b-e107-4565-9ebb-c0884ae8391c",
+          "sourceRepository": {
+            "owner": "thedotmack",
+            "name": "claude-mem"
           }
         }
       }
