@@ -6,7 +6,7 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1772824571251,
-    "updatedAt": 1772824610648,
+    "updatedAt": 1772824620656,
     "members": [
       {
         "repositoryId": "X-File-City/agent-orchestrator",
@@ -30,6 +30,31 @@
           "sourceRepository": {
             "owner": "ComposioHQ",
             "name": "agent-orchestrator"
+          }
+        }
+      },
+      {
+        "repositoryId": "X-File-City/bun",
+        "collectionId": "col-1772824571251-uffsh35",
+        "addedAt": 1772824620656,
+        "metadata": {
+          "name": "bun",
+          "path": "X-File-City/bun",
+          "owner": "X-File-City",
+          "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+          "language": null,
+          "stars": 0,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/X-File-City/bun",
+          "cloneUrl": "https://github.com/X-File-City/bun.git",
+          "layout": {
+            "gridX": 4,
+            "gridY": 12
+          },
+          "regionId": "ea15509b-e107-4565-9ebb-c0884ae8391c",
+          "sourceRepository": {
+            "owner": "oven-sh",
+            "name": "bun"
           }
         }
       }
